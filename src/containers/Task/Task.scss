@@ -1,0 +1,47 @@
+.Task{ 
+    
+    padding: 1rem 1.5rem;
+    border-radius: 10px;
+    margin: 10px 0;
+  //  display: flex;
+    align-items: center;
+    background: #fff;
+    box-shadow: 0 0 1px rgba(0,0,0,.13),0 1px 3px rgba(0,0,0,.26);
+}
+
+.Task__up{
+    display: flex;
+    align-items: center;
+    line-height: 0;
+}
+.Task__down{
+    line-height: 0;
+}
+
+.Items{
+    height: 320px;
+    //margin-top: 30%;
+    margin: 6rem 1rem;
+    padding: 0 1rem;
+    overflow-y: auto;
+    flex: 1 1;
+    z-index: 0;
+}
+
+.content{
+    display: block;
+    width: 100%;
+}
+
+.delete {
+  color:white;
+  background-color: red;
+  border: 1px solid red;
+  }
+
+ .delete:hover{
+ cursor: pointer;
+background-color: rgb(255, 50, 50);
+  }
+
+  

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karolkle/static/css/main.31632d3b.chunk.css",
+    "main.js": "/karolkle/static/js/main.dc7e583d.chunk.js",
+    "main.js.map": "/karolkle/static/js/main.dc7e583d.chunk.js.map",
+    "runtime~main.js": "/karolkle/static/js/runtime~main.19b50870.js",
+    "runtime~main.js.map": "/karolkle/static/js/runtime~main.19b50870.js.map",
+    "static/js/2.44d67386.chunk.js": "/karolkle/static/js/2.44d67386.chunk.js",
+    "static/js/2.44d67386.chunk.js.map": "/karolkle/static/js/2.44d67386.chunk.js.map",
+    "index.html": "/karolkle/index.html",
+    "precache-manifest.850f7471a0dbaeb19ae1b3b12bdec122.js": "/karolkle/precache-manifest.850f7471a0dbaeb19ae1b3b12bdec122.js",
+    "service-worker.js": "/karolkle/service-worker.js",
+    "static/css/main.31632d3b.chunk.css.map": "/karolkle/static/css/main.31632d3b.chunk.css.map"
+  }
+}

@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f6f5f7;
+}
+
+html {
+  font-size: 15px;
+}
